@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/drawable/border.xml" value="0.2145" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro3.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro4.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro5_display_info.xml" value="0.24632352941176472" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro5_register.xml" value="0.24632352941176472" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro6_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro6_welcome_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro7_todo.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro8_colorchanger.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro9_calculator.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

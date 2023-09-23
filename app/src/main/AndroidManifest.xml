@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.practical_assignment">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_launcher_background"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_launcher_background"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Practical_Assignment"
+        tools:targetApi="31">
+        <activity
+            android:name=".pra_ass_pro9_calculator"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro8_colorchanger"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro7_todo"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro6_welcome_user"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro6_login"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro5_display_info"
+            android:exported="false" />
+        <activity
+            android:name=".pra_ass_pro5_register"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro4"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".pra_ass_pro3"
+            android:exported="true" />
+        <activity
+            android:name=".pra_ass_pro1"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".pra_ass_pro2"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
