@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/drawable/border.xml" value="0.2145" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.287890625" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_main_home.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro1.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro3.xml" value="0.1935185185185185" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro4.xml" value="0.1935185185185185" />
@@ -15,6 +17,7 @@
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro7_todo.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro8_colorchanger.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/activity_pra_ass_pro9_calculator.xml" value="0.25" />
+        <entry key="..\:/Users/Hitesh/AndroidStudioProjects/Practical_Assignment/app/src/main/res/layout/content_scrolling.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
