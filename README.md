@@ -39,8 +39,8 @@ Follow these steps to get this Android app up and running on your local machine.
 ### Feature 2: Highlight another important functionality.
 ### Feature 3: You can list more features here.
 ### Screenshots
-   Screenshot 1
-   Screenshot 2
+   #### Screenshot 1
+   #### Screenshot 2
 
 ## Contributing
    We welcome contributions to improve this Android tutorial demo. To contribute:
@@ -54,8 +54,8 @@ Follow these steps to get this Android app up and running on your local machine.
    This project is licensed under the MIT License.
 
 ## Acknowledgments
-   Acknowledge any third-party libraries or resources used in your project.
+   Developed for the Students of SYBCA Mobile Application Track.
 ## Contact
    If you have questions or need further assistance, feel free to contact us at info@amrolicollege.ac.in
 
-## Happy coding!
+  Happy coding!
