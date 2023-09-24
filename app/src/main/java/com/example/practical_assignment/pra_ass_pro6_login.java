@@ -28,11 +28,11 @@ public class pra_ass_pro6_login extends AppCompatActivity {
                 // Perform validation
                 if (username.isEmpty() ) {
                     // Input is empty, show an error message
-                    usernameEditText.setError("Username cannot be empty");
+                    usernameEditText.setError("Enter Username as amrolibca");
                 }
                 else if (password.isEmpty())
                 {
-                    passwordEditText.setError("Password cannot be empty");
+                    passwordEditText.setError("Enter Password 123");
                 }
                 else{
                     // Remove the error message if it was previously displayed

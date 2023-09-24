@@ -1,9 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".main_home">
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#7A5FA395"
+    tools:context=".pra_ass_pro7_todo">
+    <TextView
+        android:id="@+id/welcomeTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="Welcome to MAD Tutorials"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textStyle="bold" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:id="@+id/todoListLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:outlineAmbientShadowColor="@color/purple_500"
+            android:outlineSpotShadowColor="@color/teal_200"
+            android:background="@drawable/border"
+            android:padding="10dip">
+            <Button
+                android:id="@+id/btndemo1_welcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Welcome to SYBCA Demo        [Create a Mobile Application in Android to Display Welcome to SYBCA SEM-3 in middle of the screen with Background Color Yellow and Text Color Red.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo2_orientation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2. Fullscreen / Orientation Demo       [Create a Mobile Application in Android to hide title bar and open in Fullscreen Size and change the orientation of the screen on button click.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo3_toast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3. Good Morning Toast Demo            [Create a Mobile Application in Android to Display Good Morning with Username message using Toast.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo4_intent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4. Implicit Intent Demo              [Create a Mobile Application in Android to Open a website in browser when user input URL and click Button using Intent.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo5_register"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="5. User Registeration Demo            [Create a Mobile Application in Android to Register User with Basic Details (Name, Email, Mobile, Gender, Username, Password) and Display Collected Information on next screen along with Registration Successful Toast Message.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo6_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6. Login to System Demo              [Create a Mobile Application in Android for User Login. If user provides correct details show next screen with Login Successful Message else show Error in Login Message using Toast.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo7_todo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="7. Basic todo application            [Create a Mobile Application in Android to Create a Todo List.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo8_color"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="8. Radiobutton Click Demo             [Create a Mobile Application in Android for Changing color of the Screen when user clicks on particular Radio button with Color name.]"
+                android:padding="10dp" />
+            <Button
+                android:id="@+id/btndemo9_calcu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="9. Simple Calculator Demo               [Create a Mobile Application in Android for basic Calculator which takes Input in two Edit Text and display result. Perform Addition, Subtraction, Division and Multiplication Operations. ]"
+                android:padding="10dp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
