@@ -58,4 +58,4 @@ Follow these steps to get this Android app up and running on your local machine.
 ## Contact
    If you have questions or need further assistance, feel free to contact us at info@amrolicollege.ac.in
 
-  Happy coding!
+  Happy Mobile Application Developing...!
