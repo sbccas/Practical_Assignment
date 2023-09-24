@@ -19,4 +19,4 @@ To get started with this demo, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/android-tutorial-demo.git
+   git clone https://github.com/sbccas/Practical_Assignment.git
